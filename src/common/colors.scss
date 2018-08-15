@@ -1,0 +1,132 @@
+/* CUSTOM VARIABLES FOR ELEMENT UI THEME */
+/* Element Chalk Variables */
+
+//****************************************************************************/
+//    Colors
+//****************************************************************************/
+
+// Grays
+// Grayscale
+$black: #000;
+$gray-darker-2: #0a0c15;
+$gray-darker-1: #1a1c25;
+$gray-primary: #2a2c35;
+$gray-lighter-1: #3a3c45;
+$gray-lighter-2: #6a6c75;
+$gray-lighter-3: #9a9ca5;
+$gray-lighter-4: #babcc5;
+$gray-lighter-5: #dadce5;
+$gray-lighter-6: #eaecf1;
+$gray-lighter-7: #f4f4f7;
+$gray-lighter-8: #f8f8f9;
+$white: #fff;
+
+
+// Pinks
+$pink-darker-3: #79002b;
+$pink-darker-2: #9c0038;
+$pink-darker-1: #bd1746;
+$pink-primary: #ec2059;
+$pink-lighter-1: #ff3467;
+$pendoPink: #ec2059;
+$pendoPinkHover: #ff3467;
+$pink-inactive: #ff8Eaa;
+$pink-lighter-2: #ffdde6;
+
+// Teals
+$teal-lighter-2: #2EA2A0;
+$teal-lighter-1: #0F918F;
+$teal-primary: #0A817F;
+$teal-darker-1: #077472;
+$teal-darker-2: #036463;
+$teal-darker-3: #025150;
+$teal-darker-4: #013F3E;
+
+// Mints
+$mint-darker-2: #ABE7DB;
+$mint-darker: #BEF1E7;
+$mint-primary: #CBF4EC;
+$mint-lighter-2: #E2FCF7;
+
+// Link + Link Background Colors
+$link-light: #5fc4e8;           // used on dark backgrounds
+$link-dark: #2ca0c8;            // used on light backgrounds
+
+$link-light-hover: #269cc5;     // used on dark backgrounds
+$link-dark-hover: #007eb4;      // used on light backgrounds
+
+$navy-blue: #0b253d;
+
+// Fades
+$gray-lighter-2-fade-60: transparentize($gray-lighter-2, 0.4);
+
+// Other Colors
+$happy-green: #00C583;
+$red-error: #CC3340;
+
+// Labels / Pages / Features
+$tag-pink-darker: #ec2059;
+$tag-pink-lighter: #ff7e8e;
+$tag-orange-darker: #ff7107;
+$tag-orange-lighter: #ffb053;
+$tag-green-darker: #00c583;
+$tag-green-lighter: #03ed9f;
+$tag-blue-darker: #009bd5;
+$tag-blue-lighter: #34c8ff;
+$tag-purple-darker: #8369c1;
+$tag-purple-lighter: #af90f8;
+
+$yellow-lighter: #F2C80F;
+
+
+// Graph Colors
+$tag-blue-darker-2: #004966;
+$tag-blue-darker-1: #006680;
+$tag-blue-lighter-1: #73D9FF;
+$tag-blue-lighter-2: #9DE3FF;
+$tag-green-darker-2: #006644;
+$tag-green-darker-1: #008E5D;
+$tag-green-lighter-1: #00EED3;
+$tag-green-lighter-2: #89F7D4;
+$tag-purple-darker-2: #4A347F;
+$tag-purple-darker-1: #5E4592;
+$tag-purple-lighter-1: #F499FF;
+$tag-purple-lighter-2: #DBC7FE;
+$tag-pink-darker-2: #79002B;
+$tag-pink-darker-1: #BD1746;
+$tag-pink-lighter-1: #FF7971;
+$tag-pink-lighter-2: #F9C8D4;
+$tag-orange-darker-2: #DF670F;
+$tag-orange-darker-1: #F13D07;
+$tag-orange-lighter-1: #FFCF3B;
+$tag-orange-lighter-2: #FFDDAE;
+$tag-gray-darker-2: #2A2C35;
+$tag-gray-darker-1: #6A6C75;
+$tag-gray-darker: #9A9CA5;
+$tag-gray-lighter: #BABCC5;
+$tag-gray-lighter-1: #DADCE5;
+
+
+// Status Colors
+$status-draft: #98e5ff;
+$status-public: $happy-green;
+$status-staged: #f9e481;
+$status-disable: $gray-lighter-4;
+$status-archive: $gray-lighter-4;
+
+// Various Colors
+$segmentio-green: #49B882;
+
+// Alert Colors
+$alert-background-error: #FCEBF0;
+$alert-border-error: $red-error;
+$alert-fill-error: $red-error;
+$alert-background-info: $gray-lighter-7;
+$alert-border-info: $gray-lighter-4;
+$alert-fill-info: $gray-lighter-3;
+$alert-background-success: #E5FDF5;
+$alert-border-success: $happy-green;
+$alert-fill-success: $happy-green;
+$alert-background-warning: #FFFCE1;
+$alert-border-warning: #EDCE79;
+$alert-fill-warning: #DBA211;
