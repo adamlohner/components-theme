@@ -1,31 +1,32 @@
 {
-    "name": "components-theme",
-    "version": "1.0.0",
-    "description": "Pendo components theme.",
-    "main": "lib/index.css",
-    "style": "lib/index.css",
-    "files": [
-        "lib",
-        "src"
-    ],
-    "scripts": {
-        "build": "gulp build"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/adamlohner/components-theme.git"
-    },
-    "keywords": [
-        "components",
-        "theme"
-    ],
-    "author": "adamlohner",
-    "license": "MIT",
-    "devDependencies": {
-        "gulp": "^3.9.1",
-        "gulp-autoprefixer": "^4.0.0",
-        "gulp-cssmin": "^0.1.7",
-        "gulp-sass": "^3.1.0"
-    },
-    "dependencies": {}
+  "name": "components-theme",
+  "version": "1.0.0",
+  "description": "Pendo components theme.",
+  "main": "lib/index.css",
+  "style": "lib/index.css",
+  "files": [
+    "lib",
+    "src"
+  ],
+  "scripts": {
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamlohner/components-theme.git"
+  },
+  "keywords": [
+    "components",
+    "theme"
+  ],
+  "author": "adamlohner",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-rimraf": "^0.2.2",
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {}
 }
