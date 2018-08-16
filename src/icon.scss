@@ -25,27 +25,27 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.el-icon-alert-error {
+.el-icon-error {
   &:before {
-    content: $el-icon-alert-error;     
+    content: $el-icon-error;     
     color: #cc3340;
   }
 }
-.el-icon-alert-info {
+.el-icon-info {
   &:before {
-    content: $el-icon-alert-info;     
+    content: $el-icon-info;     
     color: #9a9ca5;
   }
 }
-.el-icon-alert-success {
+.el-icon-success {
   &:before {
-    content: $el-icon-alert-success;     
+    content: $el-icon-success;     
     color: #00c583;
   }
 }
-.el-icon-alert-warning {
+.el-icon-warning {
   &:before {
-    content: $el-icon-alert-warning;     
+    content: $el-icon-warning;     
     color: #dba211;
   }
 }
