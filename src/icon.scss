@@ -3,9 +3,9 @@
 @font-face {
   font-family: '#{$el-icon-font-family}';
   src:
-    url('#{$el-icon-font-path}/#{$el-icon-font-family}.ttf') format('truetype'),
-    url('#{$el-icon-font-path}/#{$el-icon-font-family}.woff') format('woff'),
-    url('#{$el-icon-font-path}/#{$el-icon-font-family}.svg##{$el-icon-font-family}') format('svg');
+    url('#{$el-icon-font-path}/#{$el-icon-font-family}.ttf?ddmlve') format('truetype'),
+    url('#{$el-icon-font-path}/#{$el-icon-font-family}.woff?ddmlve') format('woff'),
+    url('#{$el-icon-font-path}/#{$el-icon-font-family}.svg?ddmlve##{$el-icon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
 }
